@@ -9,3 +9,7 @@ export const TABLEHEAD = [{
 }, {
   name: ""
 }]
+
+export const cookieName = 'logged'
+
+export const storageUserData = 'userData'
